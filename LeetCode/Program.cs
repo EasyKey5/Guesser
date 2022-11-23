@@ -74,7 +74,7 @@ namespace Guesser
         }
         
     }
-    class Programw
+    class Program
     {
 
         static void Main(string[] args)
